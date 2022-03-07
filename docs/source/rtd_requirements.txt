@@ -1,0 +1,13 @@
+jupyter-book
+sphinx
+sphinx-book-theme
+ipython
+jupyter-sphinx
+pydata-sphinx-theme
+IPython
+jupyter_client
+ipykernel
+MyST-NB
+matplotlib
+pandas
+scipy
