@@ -4,7 +4,7 @@ sphinx-book-theme
 ipython
 jupyter-sphinx
 pydata-sphinx-theme
-IPython
+ipython
 jupyter_client
 ipykernel
 MyST-NB
