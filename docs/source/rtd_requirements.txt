@@ -7,7 +7,7 @@ pydata-sphinx-theme
 ipython
 jupyter_client
 ipykernel
-MyST-NB
+myst-nb
 matplotlib
 pandas
 scipy
