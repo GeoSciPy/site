@@ -31,7 +31,7 @@ pygments_style = "sphinx"
 # -- Options for HTML output
 
 html_theme = "sphinx_book_theme"
-#html_logo = "_static/geopython.png"
+html_logo = "_static/geoscipy-logo.png"
 html_title = ""
 
 html_theme_options = {
