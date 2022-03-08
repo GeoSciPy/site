@@ -18,6 +18,20 @@ Contents
 --------
 
 .. toctree::
+    :maxdepth: 2
+    :caption: Course information
+    
+    general-info/course-info.ipynb
 
-   usage
-   api
+.. toctree::
+    :maxdepth: 2
+    :caption: Part 1
+    
+    lessons/part-1/geo-python.ipynb
+
+.. toctree::
+    :maxdepth: 2
+    :caption: Part 2
+    
+    
+
