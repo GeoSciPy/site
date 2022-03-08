@@ -1,17 +1,18 @@
-Welcome to Lumache's documentation!
-===================================
+Geoscientific data analysis with Python
+=======================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+This course is designed to introduce students to (1) programming with the Python language and (2) common data analysis methods in Python such as:
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+- Reading in, cleaning, and basic plotting of spreadsheet data from Excel, CSV files, etc.
+- Batch processing of data files
+- Interpolations of values in 1D and 2D using SciPy
+- Contour plotting in 2D and 3D
+- Fitting lines to scatter plot data, various goodness-of-fit statistics, etc.
+- Best practices for data visualisation (making accessible plots for colourblind viewers, etc.)
 
-.. note::
+The first part of the course will be an introduction to programming in Python as a semi-independent study of the existing course materials for the `Geo-Python course <https://geo-python.github.io>`_, but with weekly meetings with a course assistant to answer questions and provide learning support. Completion of this part of the course is only necessary if you do not already have basic Python programming skills including use of libraries like pandas and matplotlib.
 
-   This project is under active development.
+In the second half of the course we will have weekly meetings to discuss various topics in the bulleted list above in an informal way and based on the needs of the group. To the extent possible we will work around the kinds of datasets you are using and discuss ways in which your existing data workflows can be migrated to Python to make your work more efficient and reproducible.
 
 Contents
 --------
