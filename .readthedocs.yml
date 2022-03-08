@@ -4,7 +4,7 @@ formats: []
 python:
     version: 3
     install:
-        - requirements: source/rtd_requirements.txt
+        - requirements: docs/source/rtd_requirements.txt
         - method: pip
           path: .
 
