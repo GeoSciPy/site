@@ -28,6 +28,7 @@ Contents
     :caption: Part 1
     
     lessons/part-1/geo-python.ipynb
+    lessons/part-1/class-1
 
 .. toctree::
     :maxdepth: 2
