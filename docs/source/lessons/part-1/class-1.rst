@@ -6,4 +6,6 @@ In our first session we covered the basic information about the plans for the co
 Lesson video
 ------------
 
-.. youtube:: teGXj-MmLuQ
+.. raw:: html
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/teGXj-MmLuQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
