@@ -34,5 +34,5 @@ Contents
     :maxdepth: 2
     :caption: Part 2
     
-    
+    lessons/part-2/part-2-plans.ipynb    
 
