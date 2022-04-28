@@ -25,18 +25,27 @@ Contents
 
 .. toctree::
     :maxdepth: 2
-    :caption: Part 1
+    :caption: Part 1 - Class 1
     
     lessons/part-1/geo-python.ipynb
     lessons/part-1/class-1
 
 .. toctree::
     :maxdepth: 2
-    :caption: Part 2, week 1
+    :caption: Part 2 - Class 2
     
-    lessons/part-2/class-2
-    lessons/part-2/part-2-plans.ipynb
-    lessons/part-2/class-2-notes.ipynb
+    lessons/part-2/class-2/class-2
+    lessons/part-2/class-2/part-2-plans.ipynb
+    lessons/part-2/class-2/class-2-notes.ipynb
+
+.. 
+    .. toctree::
+        :maxdepth: 2
+        :caption: Part 2 - Class 3
+
+        lessons/part-2/class-2/class-2
+        lessons/part-2/class-2/part-2-plans.ipynb
+        lessons/part-2/class-2/class-2-notes.ipynb
 
 .. 
     .. toctree::
