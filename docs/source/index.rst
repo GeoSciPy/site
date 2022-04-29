@@ -38,14 +38,12 @@ Contents
     lessons/part-2/class-2/part-2-plans.ipynb
     lessons/part-2/class-2/class-2-notes.ipynb
 
-.. 
-    .. toctree::
-        :maxdepth: 2
-        :caption: Part 2 - Class 3
+.. toctree::
+    :maxdepth: 2
+    :caption: Part 2 - Class 3
 
-        lessons/part-2/class-2/class-2
-        lessons/part-2/class-2/part-2-plans.ipynb
-        lessons/part-2/class-2/class-2-notes.ipynb
+    lessons/part-2/class-3/class-3
+    lessons/part-2/class-3/geo-python-review.ipynb
 
 .. 
     .. toctree::
