@@ -45,9 +45,9 @@ Contents
     lessons/part-2/class-3/class-3
     lessons/part-2/class-3/geo-python-review.ipynb
 
-.. 
-    .. toctree::
-        :maxdepth: 2
-        :caption: Part 2, week 2
+ 
+.. toctree::
+    :maxdepth: 2
+    :caption: Part 2, week 4
 
-        lessons/part-2/part-2-plans.ipynb
+    lessons/part-2/class-4/plotting-tips.ipynb
