@@ -64,4 +64,5 @@ Contents
     :maxdepth: 2
     :caption: Part 2, week 6
 
+    lessons/part-2/class-6/class-6
     lessons/part-2/class-6/geostatistics-revisited.ipynb
